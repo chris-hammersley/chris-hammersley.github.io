@@ -28,7 +28,8 @@ body {
 
 
 hr {
-    color: #EF733E; //added both color & background-color for older browser compatability
+/* added both color & background-color for older browser compatability */
+    color: #EF733E;
     background-color: #EF733E;
     height: 5px;
 }
