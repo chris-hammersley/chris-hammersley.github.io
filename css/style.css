@@ -4,26 +4,30 @@ body {
 	font-weight: 300;
 }
 
+
 .text-muted {
 
 	color: #458BC1;
 }
 
+
 .text-thin {
 	font-weight: 100;
 }
 
+
 .title-super {
 	font-size: 50px;
 }
+
 
 .title-logo {
 	margin-top: 20px;
     width: 180px;
 }
 
+
 hr {
     color: #EF733E;
-//    background-color: #EF733E;
     height: 5px;
 }
