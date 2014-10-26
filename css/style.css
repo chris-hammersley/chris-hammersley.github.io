@@ -24,6 +24,7 @@ body {
 
 img {
     border-radius: 15px;
+    display: block;
 }
 
 hr {
