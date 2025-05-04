@@ -29,7 +29,7 @@ experience:
     location: New York
     date_start: 'Sep 2000'
     date_end: 'May 2003'
-    description: GPA: 3.9/4.0; Magna Cum Laude
+    description: GPA 3.9/4.0; Magna Cum Laude
 
   - title: BA Communication
     company: Loyola University Chicago
@@ -38,7 +38,7 @@ experience:
     location: Chicago
     date_start: 'Sep 1996'
     date_end: 'May 2000'
-    description: GPA: 3.58/4.0; Cum Laude
+    description: GPA 3.58/4.0; Cum Laude
 
 design:
   columns: '1'
