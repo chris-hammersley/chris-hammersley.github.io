@@ -25,7 +25,7 @@ experience:
   - title: Consultant
     company: Planette AI
     company_url: ''
-    company_logo: org-pl
+    company_logo: org-x
     location: Seattle
     date_start: 'Dec 2023'
     date_end: 'Dec 2024'
@@ -35,7 +35,7 @@ experience:
   - title: Consultant
     company: wayfinding
     company_url: ''
-    company_logo: org-wy
+    company_logo: org-x
     location: Seattle
     date_start: 'Feb 2023'
     date_end: ''
@@ -44,7 +44,7 @@ experience:
   - title: Consultant
     company: Moving Beyond
     company_url: ''
-    company_logo: org-mvb
+    company_logo: org-x
     location: Seattle
     date_start: 'Mar 2022'
     date_end: 'Nov 2023'
