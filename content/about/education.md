@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-nsu
     location: New York
-    date_start: 'Sept 2000'
+    date_start: 'Sep 2000'
     date_end: 'May 2003'
     description: GPA: 3.9/4.0; Magna Cum Laude
 
@@ -36,7 +36,7 @@ experience:
     company_url: ''
     company_logo: org-luc
     location: Chicago
-    date_start: 'Sept 1996'
+    date_start: 'Sep 1996'
     date_end: 'May 2000'
     description: GPA: 3.58/4.0; Cum Laude
 
