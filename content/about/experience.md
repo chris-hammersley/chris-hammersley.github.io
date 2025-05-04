@@ -14,7 +14,7 @@ subtitle: Select Projects & Positions
 
 # Date format for experience
 #   Refer to https://docs.hugoblox.com/customization/#date-format
-date_format: Jan 2006
+date_format: January, 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Seattle
-    date_start: 'Dec 2023'
-    date_end: 'Dec 2024'
+    date_start: 'December, 2023'
+    date_end: 'December, 2024'
     description: |2-
         Rebuilt website (Wix). Developed/executed on GTM content strategy (blogs, video, social). Managed Google, Bing & LinkedIn Paid Ads. Validated product fit on client calls.
 
@@ -37,7 +37,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Seattle
-    date_start: 'Feb 2023'
+    date_start: 'February, 2023'
     date_end: ''
     description: Design, build and deploy of a 3D website utilizing React.js.
 
@@ -46,8 +46,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Seattle
-    date_start: 'Mar 2022'
-    date_end: 'Nov 2023'
+    date_start: 'March, 2022'
+    date_end: 'November, 2023'
     description: Managed brand/website rollout (SquareSpace). Developed/executed on GTM product marketing strategy. Produced 40 episodes of weekly LinkedIn Live video podcast Data is Love.
 
 design:

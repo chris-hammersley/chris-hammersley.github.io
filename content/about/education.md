@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://docs.hugoblox.com/customization/#date-format
-date_format: Jan 2006
+date_format: January, 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-nsu
     location: New York
-    date_start: 'Sep 2000'
-    date_end: 'May 2003'
+    date_start: 'September, 2000'
+    date_end: 'May, 2003'
     description: GPA 3.9/4.0; Magna Cum Laude
 
   - title: BA Communication
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: org-luc
     location: Chicago
-    date_start: 'Sep 1996'
-    date_end: 'May 2000'
+    date_start: 'September, 1996'
+    date_end: 'May, 2000'
     description: GPA 3.58/4.0; Cum Laude
 
 design:

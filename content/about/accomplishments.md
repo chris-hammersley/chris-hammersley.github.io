@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://docs.hugoblox.com/customization/#date-format
-date_format: Jan 2006
+date_format: January, 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -24,24 +24,24 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: 'Jan 2021'
+    date_end: 'March, 2021'
+    date_start: 'January, 2021'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
   - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: 'Jan 2021'
+    date_end: 'August, 2020'
+    date_start: 'May, 2020'
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: edX
     organization_url: https://www.edx.org
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
-    date_end: 'Aug 2020'
-    date_start: 'May 2020'
+    date_end: 'September, 2019'
+    date_start: 'May, 2019'
     description: ''
     organization: DataCamp
     organization_url: https://www.datacamp.com
