@@ -25,19 +25,19 @@ experience:
   - title: MA Media Studies
     company: The New School for Social Research
     company_url: ''
-    company_logo: org-nsu
+    company_logo: org-x
     location: New York
-    date_start: 'September, 2000'
-    date_end: 'May, 2003'
+    date_start: '2000-09-01'
+    date_end: '2003-05-15'
     description: GPA 3.9/4.0; Magna Cum Laude
 
   - title: BA Communication
     company: Loyola University Chicago
     company_url: ''
-    company_logo: org-luc
+    company_logo: org-x
     location: Chicago
-    date_start: 'September, 1996'
-    date_end: 'May, 2000'
+    date_start: '1996-09-01'
+    date_end: '2000-05-15'
     description: GPA 3.58/4.0; Cum Laude
 
 design:
