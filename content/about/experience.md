@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Seattle
-    date_start: 'December, 2023'
-    date_end: 'December, 2024'
+    date_start: '2023-01-01'
+    date_end: '2024-01-01'
     description: |2-
         Rebuilt website (Wix). Developed/executed on GTM content strategy (blogs, video, social). Managed Google, Bing & LinkedIn Paid Ads. Validated product fit on client calls.
 
@@ -37,7 +37,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Seattle
-    date_start: 'February, 2023'
+    date_start: '2023-02-01'
     date_end: ''
     description: Design, build and deploy of a 3D website utilizing React.js.
 
@@ -46,8 +46,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Seattle
-    date_start: 'March, 2022'
-    date_end: 'November, 2023'
+    date_start: '2022-03-01'
+    date_end: '2023-11-01'
     description: Managed brand/website rollout (SquareSpace). Developed/executed on GTM product marketing strategy. Produced 40 episodes of weekly LinkedIn Live video podcast Data is Love.
 
 design:
