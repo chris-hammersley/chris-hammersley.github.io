@@ -8,7 +8,7 @@ headless: true
 # Page title
 title: Chris Hammersley Data Science Portfolio
 # Page type - we want a landing page (such as a homepage)
-type: landing
+#type: landing
 
 # Your landing page sections - add as many different content blocks as you like
 sections:

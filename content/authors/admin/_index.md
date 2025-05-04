@@ -63,6 +63,6 @@ social:
 #email: ""
 ---
 
-Chris Hammersley is an accomplished, hands-on Digital Technologist specializing in Marketing and Ad Tech. He develops and implements Paid Ads, SEO, Email, Paid Social and Content Marketing strategies to increase your company's revenue. He thrives at the intersections of data, content, automation and process. He is skilled at discovering creative, data-driven and cost-effective solutions to operational challenges. He mixes the art with the science.
+I'm an accomplished, hands-on Digital Technologist specializing in Marketing and Ad Tech. I create and implement Paid Ads, SEO, Email, Paid Social and Content Marketing strategies to increase your company's revenue. I thrive at the intersections of data, content, automation and process. I am skilled at discovering creative, data-driven and cost-effective solutions to operational challenges. I mix the art with the science.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} his resumé as a PDF.

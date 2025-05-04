@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Landing Page Optimization
+      tag: LPO
+    - name: Conversion Rate Optimization
+      tag: CRO
+    - name: Product Enhancements
+      tag: PE
 
 design:
   columns: '1'
